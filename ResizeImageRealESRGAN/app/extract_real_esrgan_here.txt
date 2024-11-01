@@ -1,0 +1,1 @@
+https://github.com/xinntao/Real-ESRGAN/releases/tag/v0.2.5.0
