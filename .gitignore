@@ -3,4 +3,7 @@ FB2Kndl/*.exe
 GetAlbums/*.json
 PlayUrl/
 PSSteamIdle/*.dll
-ResizeImageRealESRGAN/app/
+ResizeImageRealESRGAN/app/models/
+ResizeImageRealESRGAN/app/*.md
+ResizeImageRealESRGAN/app/*.exe
+ResizeImageRealESRGAN/app/*.dll
