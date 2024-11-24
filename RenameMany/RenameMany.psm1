@@ -3,7 +3,7 @@ $banner = {
     @"
 `e[3;90mpossible commands:
  ∙ `e[36ma|text|position`e[90m                       add text │ ∙ `e[36mp[l]|number|char`e[90m           padding
- ∙ `e[36md[t]|start[text]|length[text]`e[90m  delete ([t]ext) │ ∙ `e[36ms[o]|start|length|position`e[90m add substring ([o]riginal)
+ ∙ `e[36md[t]|index[text]|length[text]`e[90m  delete ([t]ext) │ ∙ `e[36ms[o]|index|length|position`e[90m add substring ([o]riginal)
  ∙ `e[36me|text`e[90m                               extension │ ∙ `e[36mr|find|replace`e[90m             replace
  ∙ `e[36mi|start|position|zeros`e[90m               add index │`e[0m
 `e[94mcommands:`e[0m
